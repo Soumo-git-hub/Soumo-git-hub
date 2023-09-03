@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Soumbar
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Soumbar/Soumbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello There I'm a BCA student with a 3-year background in Python, HTML, CSS, and JavaScript. 
+Passionate about technology and currently expanding skills in cloud computing and web development. 
+Eager to contribute to innovative projects and connect with fellow tech enthusiasts
