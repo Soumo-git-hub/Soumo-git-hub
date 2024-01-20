@@ -14,7 +14,7 @@ I'm Soumyadyuti Dey, a BCA student with a strong 3-year background in Python, HT
 
 ## 📚 Education
 
-- **BCA (Bachelor of Computer Applications):** The Northcap University, [Year of Admission] - Present
+- **BCA (Bachelor of Computer Applications):** The Northcap University, 2023 - Present
 
 ## 🌱 Currently Learning
 
