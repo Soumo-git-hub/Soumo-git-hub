@@ -1,3 +1,7 @@
+
+![Picsart_24-03-18_22-41-48-179](https://github.com/Soumo-git-hub/Soumo-git-hub/assets/132326747/703b6ea6-34ee-4bcd-93ed-653d37b588e5)
+
+
 # 💫 About Me:
 🔭 Currently engaged in sharpening my skills in cloud computing and exploring advanced concepts in artificial intelligence.<br><br>👯 Open to collaborating on projects related to software development, web development, and innovative technological solutions.<br><br>🤝 Seeking assistance with enhancing my understanding of machine learning algorithms and their practical implementations.<br><br>🌱 Actively learning about data science techniques and methodologies to broaden my knowledge base.<br><br>💬 Feel free to ask me about my experiences in Python programming, web development frameworks, or my journey in pursuing a BCA degree.<br><br>⚡ Fun fact: I love experimenting with new recipes in my free time and exploring different cuisines from around the world.
 
