@@ -3,7 +3,12 @@
 
 
 # 💫 About Me:
-🔭 Currently engaged in sharpening my skills in cloud computing and exploring advanced concepts in artificial intelligence.<br><br>👯 Open to collaborating on projects related to software development, web development, and innovative technological solutions.<br><br>🤝 Seeking assistance with enhancing my understanding of machine learning algorithms and their practical implementations.<br><br>🌱 Actively learning about data science techniques and methodologies to broaden my knowledge base.<br><br>💬 Feel free to ask me about my experiences in Python programming, web development frameworks, or my journey in pursuing a BCA degree.<br><br>⚡ Fun fact: I love experimenting with new recipes in my free time and exploring different cuisines from around the world.
+- ☁️ Specializing in cloud computing with a focus on AWS services and architecture.
+- 🤝 Open to collaboration in cloud infrastructure, automation, and AI integration.
+- 🌐 Seeking expertise in Cloud Architect, DevOps, and scalable AI deployments.
+- 📚 Continuously learning AI-driven automation, serverless computing, and enterprise cloud strategies.
+- 💡 Knowledgeable in cloud computing, AI applications, web technologies, and industry best practices.
+- 🚀 Passionate about innovation, emerging tech trends, and optimizing cloud-based solutions.
 
 
 ## 🌐 Socials:
