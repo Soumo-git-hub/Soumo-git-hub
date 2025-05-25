@@ -1,10 +1,13 @@
 <!-- Header with Animation -->
 
-![Picsart_24-03-18_22-41-48-179](https://github.com/Soumo-git-hub/Soumo-git-hub/assets/132326747/703b6ea6-34ee-4bcd-93ed-653d37b588e5)
+![Picsart_25-05-25_23-18-06-381](https://github.com/user-attachments/assets/8cee467a-a1c8-4a15-86c4-1983a876ce5c)
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anta&size=22&pause=1000&color=0c48aa&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub+Profile;Cloud+Architect+%26+AI%2FML+Engineer;DevOps+Enthusiast;Innovative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anta&size=22&pause=1000&color=1A62EB&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+Profile;Cloud+Architect;AI%2FML+Engineer;DevOps+Enthusiast;Cybersecurity+Specialist;Innovative+Problem+Solver" alt="Typing SVG" />
 </div>
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Soumo-git-hub&style=flat-square&color=blue" alt="Profile Views">
