@@ -17,7 +17,8 @@
 
 ## 🚀 About Me
 
-> *"Architecting the cloud. Powering AI. Engineering the future"*
+> *"Building with Intelligence
+Designing for You"*
 
 I'm **Soumyadyuti Dey** a passionate **Cloud Architect & AI/ML Engineer** specializing in designing scalable, resilient cloud infrastructures and implementing intelligent systems. With expertise in DevOps practices and cloud-native technologies, I create efficient solutions that drive innovation and business growth.
 
@@ -94,17 +95,6 @@ I'm **Soumyadyuti Dey** a passionate **Cloud Architect & AI/ML Engineer** specia
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Soumo-git-hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
-
-## 🔄 What I'm Currently Working On
-
-```javascript
-const currentProjects = {
-  cloudArchitecture: "Designing multi-region fault-tolerant systems on AWS",
-  devOps: "Implementing GitOps workflows with ArgoCD and Kubernetes",
-  ai: "Building ML pipelines for real-time predictive analytics",
-  learning: "Advanced serverless architectures and AI/ML model optimization"
-};
-```
 
 ## 📫 Connect With Me
 
