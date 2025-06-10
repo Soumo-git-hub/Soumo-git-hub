@@ -22,7 +22,7 @@ Designing for You"*
 
 I'm **Soumyadyuti Dey** a passionate **Cloud Architect & AI/ML Engineer** specializing in designing scalable, resilient cloud infrastructures and implementing intelligent systems. With expertise in DevOps practices and cloud-native technologies, I create efficient solutions that drive innovation and business growth.
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 
 - 🔭 **Working on:** Cloud-native architectures, ML pipelines, and intelligent automation solutions
 - 🌱 **Learning:** Advanced AI/ML techniques, serverless architectures, and multi-cloud strategies
@@ -105,16 +105,7 @@ I'm **Soumyadyuti Dey** a passionate **Cloud Architect & AI/ML Engineer** specia
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumyadyuti-dey-245sd/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SoumyadyutiDey) 
 
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
 ---
-
-
-
 
 <!-- Footer -->
 <div align="center">
