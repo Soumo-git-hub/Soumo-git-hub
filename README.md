@@ -4,11 +4,11 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b221fbef-7604-49ab-8bfc-badf6dc6faa2" width="100%" alt="Building with Intelligence — Animated GitHub Banner" />
 
-  <br />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1200&amp;color=8B91FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=42&amp;lines=Building+reliable+software;Contributing+to+Apache+Iceberg+%26+Kornia;Geometric+Vision+%7C+Visual+SLAM+%7C+3D+Perception;Bridging+Research+%26+Real-World+Engineering" alt="Software engineering, open-source contributions, and geometric computer vision research" />
 
-  <br /><br />
+
 
   <a href="https://soumo-git-hub.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-3548C8?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:deysoumyadyuti@gmail.com"><img src="https://img.shields.io/badge/Email-555A75?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
