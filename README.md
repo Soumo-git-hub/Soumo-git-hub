@@ -2,7 +2,8 @@
 <!-- GitHub Profile README | Soumo-git-hub -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3ce6d3bb-dedb-4b0d-b465-a9d1e5c1366e" width="100%" alt="Building with Intelligence — Animated GitHub Banner" />
+  <img src="https://github.com/user-attachments/assets/b221fbef-7604-49ab-8bfc-badf6dc6faa2" width="100%" alt="Building with Intelligence — Animated GitHub Banner" />
+
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=40&amp;lines=Building+reliable+software;Contributing+to+Apache+Iceberg+%26+Kornia;Exploring+Visual+SLAM+%26+3D+Perception;Turning+ideas+into+dependable+systems" alt="Building reliable software, contributing to open source, and exploring computer vision" />
 </div>
