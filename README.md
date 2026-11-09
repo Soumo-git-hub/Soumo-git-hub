@@ -10,9 +10,9 @@
 
 ## About
 
-I'm a **software engineer and open-source contributor** working across **full-stack development, AI/ML applications, and cloud infrastructure**. I hold a BCA from **The NorthCap University**. My work includes building production-oriented software and contributing to established open-source projects.
+I'm a **software engineer and open-source contributor** focused on building **reliable, scalable, and intelligent systems**. My experience spans **full-stack engineering, AI/ML, and cloud infrastructure**, from developing production-ready applications to contributing to established open-source projects such as **Apache Iceberg and Kornia**. I enjoy solving complex engineering problems, improving existing systems, and turning ideas into practical, maintainable solutions.
 
-I'm also developing a research focus in **computer vision**, particularly **Visual SLAM, 3D perception, and geometric vision**, with an interest in reproducible experimentation and reliable implementations.
+My interests increasingly extend into **computer vision research**, particularly **Visual SLAM, 3D perception, and geometric vision**. I'm focused on bridging **research and real-world engineering** through reproducible experimentation, rigorous evaluation, and efficient implementations, with the goal of contributing to meaningful advances in intelligent visual systems.
 
 <table>
   <tr>
